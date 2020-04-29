@@ -1,0 +1,39 @@
+${APP_STUDIO}/app-studio
+START_TIMEOUT=Lucidworks Fusion App Studio Enterprise Start Timeout setting.
+
+
+${APP_STUDIO}/src/main/resources/conf/service/api/fusion.conf
+host : fusion server
+port : fusion access port
+
+
+${APP_STUDIO}/src/main/resources/conf/message/service/fusion.conf
+query-profile: Query profile Id
+
+
+${APP_STUDIO}/src/main/resources/conf/platforms/fusion/data.conf
+query-profile: Query profile Id
+
+
+${APP_STUDIO}/src/main/resources/conf/platforms/fusion/social.conf
+collection: Collection Id
+
+
+${APP_STUDIO}/src/main/resources/conf/platforms/fusion/suggestions.conf
+query-profile: Query Profile
+
+
+${APP_STUDIO}/src/main/webapp/search/app/directives/sample.directive.js
+app-studio document tag custom.
+
+
+${APP_STUDIO}/src/main/webapp/search/app/routes/routes.config.js
+default page setting
+
+
+${APP_STUDIO}/src/main/webapp/search/app/routes/routes.module.js
+routes import.
+
+
+${APP_STUDIO}/src/main/webapp/search/app/routes/search.routes.js
+page access process.
