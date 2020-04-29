@@ -1,0 +1,3 @@
+Lucidworks Fusion 5 는 Kubernetes 환경 상에서 설치 및 사용 가능 - Local Server로 구성하던 기존(4 버전)의 방식과는 다름.
+Lucidworks Fusion 5 는 Zookeeper Node가 기본 3 Node 로 구성.
+
